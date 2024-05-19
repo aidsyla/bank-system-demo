@@ -21,16 +21,15 @@ This is a console application built with Spring Boot in Java for managing a bank
    - See all transaction amounts
    - Log out
 ##
-Navigate through the Menu
 
 Once the application is running, you will see the main menu in the console. Navigate through the menu by entering the corresponding numbers:
-
 Welcome to the Bank System
 1. Create Bank
 2. See Banks
 3. Create Account
 4. Log in
 5. Exit
+##
 
 After logging in, you will see the home page menu:
 Welcome to our home page
