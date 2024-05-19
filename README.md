@@ -20,7 +20,7 @@ This is a console application built with Spring Boot in Java for managing a bank
    - See transaction history
    - See all transaction amounts
    - Log out
-
+##
 Navigate through the Menu
 
 Once the application is running, you will see the main menu in the console. Navigate through the menu by entering the corresponding numbers:
@@ -41,3 +41,5 @@ Welcome to our home page
 5. See transaction history
 6. See all transaction amounts
 7. Log out
+
+You can find the .yaml file to compose the docker container, which is a requirement before running the application.
